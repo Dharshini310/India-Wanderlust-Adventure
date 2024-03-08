@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/India-Wanderlust-Adventure/static/css/main.2a828fa5.css",
+    "main.js": "/India-Wanderlust-Adventure/static/js/main.68a7fd0b.js",
+    "static/js/787.f232ddbb.chunk.js": "/India-Wanderlust-Adventure/static/js/787.f232ddbb.chunk.js",
+    "index.html": "/India-Wanderlust-Adventure/index.html",
+    "main.2a828fa5.css.map": "/India-Wanderlust-Adventure/static/css/main.2a828fa5.css.map",
+    "main.68a7fd0b.js.map": "/India-Wanderlust-Adventure/static/js/main.68a7fd0b.js.map",
+    "787.f232ddbb.chunk.js.map": "/India-Wanderlust-Adventure/static/js/787.f232ddbb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a828fa5.css",
+    "static/js/main.68a7fd0b.js"
+  ]
+}
