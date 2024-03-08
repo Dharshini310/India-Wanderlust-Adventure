@@ -1,0 +1,25 @@
+.scrolling-text-container {
+    width: 100%; /* Adjust width as needed */
+    margin-top: 110px;
+    overflow: hidden;
+  }
+  
+  .scrolling-text {
+    white-space: nowrap;
+    animation: scroll-left 20s linear infinite;
+    color: green;
+    font-size: medium;
+    font-weight: 700;
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  
+  @keyframes scroll-left {
+    0% {
+      transform: translateX(100%);
+    }
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+  

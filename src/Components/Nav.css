@@ -1,0 +1,32 @@
+k{
+    color: black;
+    text-decoration: none;
+    text-align: center;
+}
+div{
+    height: 35px;
+    text-align: justify;
+}
+#o{
+    color:whitesmoke;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: medium;
+    font-style: italic;
+    margin-left: 2PX;
+    margin-top: 30px;
+    padding: 1px;
+    text-transform: capitalize;
+    align-items: center;
+    text-align: inherit;
+    display: contents;
+}
+#o:hover{
+    color: bisque;
+}
+#co{
+    background-color: #176B87;
+    margin:2px;
+    padding: 2px;
+    height: 35px;
+}

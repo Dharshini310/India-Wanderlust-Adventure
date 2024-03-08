@@ -1,0 +1,26 @@
+.animated-video {
+    display: flex;
+    justify-content: center;
+    padding: 3px;
+    padding-top: 20px;
+    flex-wrap: wrap;
+  }
+  
+  .animated-video img {
+    width: 200px; /* Adjust image size as needed */
+    animation: slide-in 3s ease-in-out infinite alternate; /* Define animation */
+    height:150px;
+    padding: 2px;
+  }
+  
+  @keyframes slide-in {
+    from {
+      transform: translateY(-50%);
+      opacity: 0;
+    }
+    to {
+      transform: translateY(0);
+      opacity: 1;
+    }
+  }
+  
